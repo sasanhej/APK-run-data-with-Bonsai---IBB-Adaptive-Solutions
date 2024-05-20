@@ -9,4 +9,6 @@ This Python script was used as a short solution to pull APK-related data (a simu
 - Cogs LP
 - Cogs EP
 
+Hopefully this code will be used for a later ETL job. 
+
 For security reasons, all addresses and user/pass are removed, but please feel free to ask for my support if you trying to develop something similar.
